@@ -78,3 +78,25 @@ Have you built a few projects on your own on Github and you are comfortable putt
 [Udemy Adv Topics Course](https://www.udemy.com/the-complete-web-developer-in-2018/?couponCode=DBJUNIOR281)
 
 >You can know all the cool functional programming techniques in the world, but if you are unable to communicate well with your team, or you are not able to focus on delivering actual value to a customer, you are not a senior developer. This is the important point: What value do you bring to your company/startup/business? If you are one of the few people who can bring order of magnitude (some people love the idea of 10x ) value to your company or business, you are a senior developer. Senior Developer is not just another job title, but rather, the ability to use your experiences to provide real benefit to the stakeholders.
+
+#### Additional Materials:
+
+**Questions you may get asked:**
+
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [Front-End Job Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
+- [Front End Web Development Quiz](http://davidshariff.com/quiz/)
+- [Interview Questions for Front-End-Developer]()
+- [JavaScript Web Quiz](http://thatjsdude.com/interview/index.html)
+- [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+
+**Questions you ask:**
+
+- [An open source list of developer questions to ask prospective employers](https://github.com/ChiperSoft/InterviewThis)
+
+**Preparing:**
+
+- [Preparing for a Front-End Web Development Interview in 2017](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
+- [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
+- [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
